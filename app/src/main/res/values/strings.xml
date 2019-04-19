@@ -7,15 +7,15 @@
 
 
     <string-array name="leagues">
-    <item>aaa</item>
-    <item>aaa</item>
-    <item>aaa</item>
-    <item>aaa</item>
-    <item>aaabbb</item>
-    <item>aaabbb</item>
-    <item>aaabbb</item>
-    <item>aaabbb</item>
-    <item>aaabbb</item>
+        <item>aaa</item>
+        <item>aaa</item>
+        <item>aaa</item>
+        <item>aaa</item>
+        <item>aaabbb</item>
+        <item>aaabbb</item>
+        <item>aaabbb</item>
+        <item>aaabbb</item>
+        <item>aaabbb</item>
     </string-array>
 
     <!-- TODO: Remove or change this placeholder text -->
