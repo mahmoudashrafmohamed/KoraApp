@@ -3,6 +3,20 @@
     <string name="title_matches">Matches</string>
     <string name="tittle_teams">Teams</string>
     <string name="title_favorites">Favorites</string>
+    <string name="title_search">Search</string>
+
+
+    <string-array name="leagues">
+    <item>aaa</item>
+    <item>aaa</item>
+    <item>aaa</item>
+    <item>aaa</item>
+    <item>aaabbb</item>
+    <item>aaabbb</item>
+    <item>aaabbb</item>
+    <item>aaabbb</item>
+    <item>aaabbb</item>
+    </string-array>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
